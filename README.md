@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Roman
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<!--
-**Bazaranol/Bazaranol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
 
-Here are some ideas to get you started:
+  ### Frontend
+  HTML, CSS, JavaScript, TypeScript, React + Redux, Bootstrap
+  
+  ### Backend
+  C#, .NET
+   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div align="center">
+ 
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bazaranol&theme=tokyonight)
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bazaranol&theme=tokyonight)  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bazaranol&theme=tokyonight)
+  
+</div>
