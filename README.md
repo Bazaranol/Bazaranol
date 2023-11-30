@@ -7,7 +7,7 @@
   HTML, CSS, JavaScript, TypeScript, React + Redux, Bootstrap
   
   ### Backend
-  C#, .NET
+  Laravel, PHP, .NET, C# 
    
 
 </div>
